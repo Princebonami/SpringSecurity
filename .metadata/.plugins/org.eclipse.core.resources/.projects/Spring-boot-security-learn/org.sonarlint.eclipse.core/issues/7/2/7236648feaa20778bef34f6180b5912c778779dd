@@ -1,0 +1,30 @@
+
+f
+java:S1128"+Remove this unused import 'java.util.List'.8ž§–„Ñ1b 647165940d2971f696436f6a7da1f89dh
+f
+java:S1135M"2Complete the task associated to this TODO comment.b 36364ec9aa2f0995d283c1c6a92d2e5ch
+Ž
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.8ž§–„Ñ1b abe65ebf00128eb35e0e67df8b49f2edh
+f
+java:S11355"2Complete the task associated to this TODO comment.b 36364ec9aa2f0995d283c1c6a92d2e5ch
+f
+java:S1135;"2Complete the task associated to this TODO comment.b 36364ec9aa2f0995d283c1c6a92d2e5ch
+j
+java:S1128"/Remove this unused import 'java.util.Optional'.8ž§–„Ñ1b 36b2b47c45feb274daab2613f5282eabh
+s
+java:S1128	"8Remove this unused import 'java.util.stream.Collectors'.8ž§–„Ñ1b f2ddee9c4f289ca38ea8377e7bdbf814h
+v	java:S125"<This block of commented-out lines of code should be removed.8äŠŒ„Ñ1b 4011ae72656fec39cb60833262e361c8h
+i
+java:S1128".Remove this unused import 'java.util.HashSet'.8ž§–„Ñ1b 79a492e0a88e35ca5e686650ffcc383eh
+€
+java:S1128"ERemove this unused import 'org.springframework.stereotype.Component'.8à‡¶„Ñ1b b406a3e47a551bd9b2decc4283e4ba39h
+f
+java:S1135A"2Complete the task associated to this TODO comment.b 36364ec9aa2f0995d283c1c6a92d2e5ch
+h
+java:S1128"-Remove this unused import 'java.util.Arrays'.8ž§–„Ñ1b 54e9e610d6bdce198c93f75733e99130h
+f
+java:S1135G"2Complete the task associated to this TODO comment.b 36364ec9aa2f0995d283c1c6a92d2e5ch
+f
+java:S1135S"2Complete the task associated to this TODO comment.b 36364ec9aa2f0995d283c1c6a92d2e5ch
+a
+java:S1948"&Make "user" transient or serializable.8äŠŒ„Ñ1b ee11cbb19052e40b07aac0ca060c23eeh

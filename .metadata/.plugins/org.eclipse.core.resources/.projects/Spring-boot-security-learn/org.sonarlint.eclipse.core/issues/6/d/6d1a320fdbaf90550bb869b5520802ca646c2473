@@ -1,0 +1,19 @@
+
+v	java:S125)"<This block of commented-out lines of code should be removed.8ß‡¶„Ñ1b 7aa560f039e92ff4d52ff1aad7b05b58h
+
+java:S1128"\Remove this unused import 'org.springframework.security.web.csrf.CookieCsrfTokenRepository'.b bcc3fbbab00b583988310175d67d39d5h
+¯
+java:S1128	"{Remove this unused import 'org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity'.b 67184295d37cf4b4d713980b7eca83a9h
+
+java:S1128"YRemove this unused import 'org.springframework.security.crypto.password.PasswordEncoder'.b 979a92b1cb4ff77c3e517495c66e2ddeh
+v	java:S125<"<This block of commented-out lines of code should be removed.8ß‡¶„Ñ1b f95b70fdc3088560732a5ac135644506h
+Š
+java:S1128"VRemove this unused import 'org.springframework.security.web.csrf.CsrfTokenRepository'.b ea9757818c57586ef263f70ddaa6c83dh
+‘
+java:S1128"VRemove this unused import 'com.spring.security.api4.services.CustomUserDetailService'.8ß‡¶„Ñ1b 0af0b8e7a3d284c46c7978a91fb4fe95h
+¼
+java:S1128"€Remove this unused import 'org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder'.8ß‡¶„Ñ1b 27a838b3505bdd7499a3e98466571dd4h
+˜
+java:S3305"]Inject this field value directly into "authenticationProvider", the only method that uses it.8ß‡¶„Ñ1b 010ac1b919b408103fdf7e3c0ac41c10h
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h

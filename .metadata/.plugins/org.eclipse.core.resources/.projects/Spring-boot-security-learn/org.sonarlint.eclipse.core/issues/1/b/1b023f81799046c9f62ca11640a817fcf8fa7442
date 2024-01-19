@@ -1,0 +1,11 @@
+
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+o	java:S125&"<This block of commented-out lines of code should be removed.b 4492f2303752d95246969fd8b3b097efh
+
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "list".b 13c87c02d4b32f6e889665cfb2d63455h
+‘
+java:S1488-"]Immediately return this expression instead of assigning it to the temporary variable "user1".b 21e34fe7c03089d11f53cd9b7b34c0b8h
+
+java:S1488("\Immediately return this expression instead of assigning it to the temporary variable "user".b 49a30371d704f2c67a1a0e0219407857h
+o	java:S125"<This block of commented-out lines of code should be removed.b c67928022e894618ef62e4f7e6077f26h
